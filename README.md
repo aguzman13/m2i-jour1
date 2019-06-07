@@ -6,7 +6,7 @@ modifications
 
 Chuck Norris a déjà compté jusqu´à l´infini. Deux fois. 
   
-Certaines personnes portent un pyjama Superman. Superman porte un pyjama Chuck Norris. 
+NULL 
   
 Chuck Norris ne se mouille pas, c´est l´eau qui se Chuck Norris. 
   
